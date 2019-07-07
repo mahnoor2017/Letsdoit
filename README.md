@@ -17,6 +17,6 @@ We appreciate all people to contribute in this project. You can send us your pas
 # PROCEDURE
 cd
 
-git clone (Repository link)
+git clone https://github.com/UA-official/Letsdoit-v1.1.git
 
 unzip letsdoit.txt.zip
